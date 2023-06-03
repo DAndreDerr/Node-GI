@@ -1,0 +1,64 @@
+{
+    "employees": [
+        {
+            "employeeID": 1,
+            "name": "Dre",
+            "salary": 50000,
+            "department": "King"
+        },
+        {
+            "employeeID": 2,
+            "name": "john",
+            "salary": 50000,
+            "department": "Job"
+        },
+        {
+            "employeeID": 3,
+            "name": "osiel",
+            "salary": 50000,
+            "department": "Job"
+        },
+        {
+            "employeeID": 4,
+            "name": "david",
+            "salary": 50000,
+            "department": "Job"
+        },
+        {
+            "employeeID": 5,
+            "name": "angel",
+            "salary": 50000,
+            "department": "Job"
+        },
+        {
+            "employeeID": 6,
+            "name": "patrick",
+            "salary": 50000,
+            "department": "Job"
+        },
+        {
+            "employeeID": 7,
+            "name": "ethan",
+            "salary": 50000,
+            "department": "Job"
+        },
+        {
+            "employeeID": 8,
+            "name": "harold",
+            "salary": 50000,
+            "department": "Job"
+        },
+        {
+            "employeeID": 9,
+            "name": "james",
+            "salary": 50000,
+            "department": "Job"
+        },
+        {
+            "employeeID": 10,
+            "name": "jacob",
+            "salary": 50000,
+            "department": "Job"
+        }
+    ]
+}
